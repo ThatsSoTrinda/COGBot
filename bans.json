@@ -1,0 +1,29 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "date": 1571495347102,
+      "username": "Frostbytes",
+      "userID": "201688768355368960",
+      "reason": null,
+      "moderator": "Moondust"
+    }
+  ],
+  "count": 1,
+  "streamers": [
+    "Rand0mcraft",
+    "Geisensei",
+    "Callsign_matora",
+    "Cameron_oz93",
+    "Gradi3nt",
+    "Thespectar",
+    "Shifty_nath",
+    "Te_aoterra",
+    "Emoir",
+    "QueenBit",
+    "Lady_la6yrinth",
+    "Izou_",
+    "Nublet_99",
+    "GazeOnTwitch"
+  ]
+}

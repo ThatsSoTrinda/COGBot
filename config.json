@@ -1,0 +1,52 @@
+{
+    "token": "YOURTOKENHERE",
+    "testtoken": "YOURTESTTOKENHERE",
+    "prefix": ".",
+    "ownerID": "155847589877645312",
+    "currentServer": "live",
+    "clientActivity": ".help",
+
+    "COGServer": "151656795016790017",
+    "COGRoleChannel": "447299800761892865",
+    "COGRoleMessage": "545157694944706573",
+    "COGAdminLogChannel": "343796978280300555",
+    "COGEditLogChannel": "548484235976245258",
+    "COGDeleteLogChannel": "548484352212992010",
+    "COGWelcomeChannel": "151656795016790017",
+
+    "COGTestServer": "505547991512252418",
+    "COGTestRoleChannel": "571686264504320001",
+    "COGTestRoleMessage": "571686679119790091",
+    "COGTestAdminLogChannel": "579571236531863562",
+    "COGTestEditLogChannel": "585825672660910107",
+    "COGTestDeleteLogChannel": "585825690365067264",
+    "COGTestWelcomeChannel": "505547992053579776",
+
+    "cogLogo": "<:COGlogo:572007852604915717>",
+
+    "COGFriendsRoleID": "341991178725621760",
+    "COGSeeAllRoleID": "455607898089848842",
+    "COGAnthemRoleID": "548994806144303118",
+    "COGApexRoleID": "545145352882487297",
+    "COGDestinyRoleID": "350909036272549890",
+    "COGMonsterHunterRoleID": "486489485991870464",
+    "COGOtherGamesRoleID": "415409403655749632",
+    "COGOverwatchRoleID": "344015372581863424",
+    "COGRainbowSixSiegeRoleID": "421926616407474176",
+    "COGTitanfallRoleID": "244293117019160586",
+    "COGWarframeRoleID": "360984534172565505",
+
+    "COGTestFriendsRoleID": "571708517979783178",
+    "COGTestSeeAllRoleID": "588710286266204166",
+    "COGTestAnthemRoleID": "588710332084649984",
+    "COGTestApexRoleID": "588710366586994703",
+    "COGTestDestinyRoleID": "588710393225150475",
+    "COGTestMonsterHunterRoleID": "588710426661879822",
+    "COGTestOtherGamesRoleID": "588710463563497472",
+    "COGTestOverwatchRoleID": "588710502423592960",
+    "COGTestRainbowSixSiegeRoleID": "588710538586882052",
+    "COGTestTitanfallRoleID": "588710579552911380",
+    "COGTestWarframeRoleID": "588710609416093696"
+
+
+}
